@@ -1,6 +1,6 @@
 # Coblind (WWDC 2023 Swift Student Challenge Submission) [SELECTED]
 
-![Uploading Slide 4:3 Copy@1x.png…]()
+![Slide 4:3 Copy@1x](https://github.com/SenjaKids/Coblind/assets/73825751/ba698ec1-95df-496d-8512-d970c8f06619)
 
 Coblind is a color blindness simulator application that created with the aim of educating people about color blindness. There are an estimated 300 million people in the world with color vision deficiency. 1 in 12 men are color blind (8%) and 1 in 200 women are color blind (0.5%). I think that's quite a large amount. I myself also born with partial color blindness. In my life, whenever people find out that I have color blindness, most of them will immediately ask the color of the things around us. Actually it was quite disturbing to me because they immediately thought that I couldn't see any color at all even though I only suffer from partial color blindness where I only have difficulty distinguishing a few colors. I also hear stories from my friends and family who also suffer from partial color blindness that they also experience the same thing. 
 
